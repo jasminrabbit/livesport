@@ -1,477 +1,931 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+
+#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺"  tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn1.png",ca-tsn1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
+#EXTVLCOPT:http-referer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn2.png",ca-tsn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
+#EXTVLCOPT:http-referer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-tsn2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn3.png",ca-tsn3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
+#EXTVLCOPT:http-referer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-tsn3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn4.png",ca-tsn4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
+#EXTVLCOPT:http-referer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-tsn4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn5.png",ca-tsn5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
+#EXTVLCOPT:http-referer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-tsn5_720/chunks.m3u8
+#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/us-foxsports1.png",us-foxsports1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
+#EXTVLCOPT:http-referer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-foxsports1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/us-foxsports2.png",us-foxsports2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
+#EXTVLCOPT:http-referer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-foxsports2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/pt-sporttv1.png",pt-sporttv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
+#EXTVLCOPT:http-referer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pt-sporttv1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/pt-sporttv2.png",pt-sporttv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
+#EXTVLCOPT:http-referer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pt-sporttv2_720/chunks.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 101
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:3C:6F:34&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 102
+http://185.80.197.39:80/play/live.php?mac=A0:BB:3E:08:45:40&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 103
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:9A:5F:B5&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 104
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:2B:ED:51&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 105
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:C7:6F:AF&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 106
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:14:8D&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 107
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:BC:B5:EB&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 108
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:70&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 109
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:80:77:CF&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 110
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:85:29:15&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 111
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:92&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 112
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:C9:38&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 113
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:00:1B:7A&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 114
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:81:D7:53&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 115
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:7D:9C&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 116
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:EE:5D&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 117
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:F1:16&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 118
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:B7:D2&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 119
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:8A:C7&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 120
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:0C:23&stream=904216&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 121
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:48:A8&stream=904216&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 201
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:3C:6F:34&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 202
+http://185.80.197.39:80/play/live.php?mac=A0:BB:3E:08:45:40&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 203
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:9A:5F:B5&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 204
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:2B:ED:51&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 205
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:C7:6F:AF&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 206
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:14:8D&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 207
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:BC:B5:EB&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 208
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:70&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 209
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:80:77:CF&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 210
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:85:29:15&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 211
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:92&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 212
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:C9:38&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 213
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:00:1B:7A&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 214
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:81:D7:53&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 215
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:7D:9C&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 216
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:EE:5D&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 217
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:F1:16&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 218
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:B7:D2&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 219
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:8A:C7&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 220
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:0C:23&stream=904215&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 221
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:48:A8&stream=904215&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 301
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:3C:6F:34&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 302
+http://185.80.197.39:80/play/live.php?mac=A0:BB:3E:08:45:40&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 303
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:9A:5F:B5&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 304
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:2B:ED:51&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 305
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:C7:6F:AF&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 306
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:14:8D&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 307
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:BC:B5:EB&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 308
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:70&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 309
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:80:77:CF&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 310
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:85:29:15&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 311
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:92&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 312
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:C9:38&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 313
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:00:1B:7A&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 314
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:81:D7:53&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 315
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:7D:9C&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 316
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:EE:5D&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 317
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:F1:16&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 318
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:B7:D2&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 319
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:8A:C7&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 320
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:0C:23&stream=904214&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 321
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:48:A8&stream=904214&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 401
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:3C:6F:34&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 402
+http://185.80.197.39:80/play/live.php?mac=A0:BB:3E:08:45:40&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 403
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:9A:5F:B5&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 404
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:2B:ED:51&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 405
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:C7:6F:AF&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 406
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:14:8D&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 407
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:BC:B5:EB&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 408
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:70&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 409
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:80:77:CF&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 410
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:85:29:15&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 411
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:92&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 412
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:C9:38&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 413
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:00:1B:7A&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 414
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:81:D7:53&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 415
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:7D:9C&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 416
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:EE:5D&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 417
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:F1:16&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 418
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:B7:D2&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 419
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:8A:C7&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 420
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:0C:23&stream=904213&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 421
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:48:A8&stream=904213&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 501
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:3C:6F:34&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 502
+http://185.80.197.39:80/play/live.php?mac=A0:BB:3E:08:45:40&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 503
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:9A:5F:B5&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 504
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:2B:ED:51&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 505
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:C7:6F:AF&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 506
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:14:8D&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 507
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:BC:B5:EB&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 508
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:70&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 509
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:80:77:CF&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 510
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:85:29:15&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 511
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:92&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 512
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:C9:38&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 513
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:00:1B:7A&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 514
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:81:D7:53&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 515
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:7D:9C&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 516
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:EE:5D&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 517
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:F1:16&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 518
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:B7:D2&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 519
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4A:8A:C7&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 520
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:0C:23&stream=904212&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 521
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:48:A8&stream=904212&extension=ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 101
+http://fdox.org:8080/play/live.php?mac=00:1A:79:C7:A7:BD&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 102
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:1A:9E&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 103
+http://fdox.org:8080/play/live.php?mac=00:1A:79:C2:94:9D&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 104
+http://fdox.org:8080/play/live.php?mac=00:1A:79:B3:83:B8&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 105
+http://fdox.org:8080/play/live.php?mac=00:1A:79:B1:07:D2&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 106
+http://fdox.org:8080/play/live.php?mac=00:1A:79:D5:CC:5F&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 107
+http://fdox.org:8080/play/live.php?mac=00:1A:79:C3:BE:30&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 108
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:20:F9&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 109
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:78:29&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 110
+http://fdox.org:8080/play/live.php?mac=00:1A:79:C5:B4:90&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 111
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:1A:57&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 112
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:33:1F&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 113
+http://fdox.org:8080/play/live.php?mac=00:1A:79:B2:74:8E&stream=61457&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports1.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 114
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:1A:57&stream=61457&extension=ts
+
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 201
+http://fdox.org:8080/play/live.php?mac=00:1A:79:C7:A7:BD&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 202
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:1A:9E&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 203
+http://fdox.org:8080/play/live.php?mac=00:1A:79:C2:94:9D&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 204
+http://fdox.org:8080/play/live.php?mac=00:1A:79:B3:83:B8&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 205
+http://fdox.org:8080/play/live.php?mac=00:1A:79:B1:07:D2&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 206
+http://fdox.org:8080/play/live.php?mac=00:1A:79:D5:CC:5F&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 207
+http://fdox.org:8080/play/live.php?mac=00:1A:79:C3:BE:30&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 208
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:20:F9&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 209
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:78:29&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 210
+http://fdox.org:8080/play/live.php?mac=00:1A:79:C5:B4:90&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 211
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:1A:57&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 212
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:33:1F&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 213
+http://fdox.org:8080/play/live.php?mac=00:1A:79:B2:74:8E&stream=61346&extension=ts
+#EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 214
+http://fdox.org:8080/play/live.php?mac=00:1A:79:FB:1A:57&stream=61346&extension=ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 101
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 102
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 103
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 104
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 105
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:FF:15:94&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 106
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 107
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 108
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:41:04:AC&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 109
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 110
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 111
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 112
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 113
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=392911&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 114
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=392911&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 201
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 202
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 203
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 204
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 205
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:FF:15:94&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 206
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 207
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 208
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:41:04:AC&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 209
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 210
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 211
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 212
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 213
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 214
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=30580&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 101
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 102
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 103
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 104
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 105
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:FF:15:94&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 106
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 107
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 108
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:41:04:AC&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 109
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 110
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 111
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 112
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 113
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 114
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=111553&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 201
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 202
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 203
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 204
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 205
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:FF:15:94&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 206
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 207
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 208
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:41:04:AC&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 209
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 210
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 211
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 212
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 213
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 214
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=30530&extension=ts
+
+
+
+
+
+#=========================
+
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085222&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY INFO ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY INFO ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085222&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 101 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 102 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 103 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 104 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 105 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 106 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 107 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 108 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 109 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 110 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 111 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 112 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 113 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085221&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 1 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 114 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085221&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085220&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 2 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085220&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085219&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 3 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085219&extension=ts
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085218&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 4 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085218&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085217&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 5 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085217&extension=ts
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085216&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 6 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085216&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085215&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 7 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085215&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085214&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 8 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 8 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085214&extension=ts
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085213&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 9 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085213&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085212&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 10 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085212&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085211&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 11 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085211&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085210&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 12 ᴴᴰᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 12 ᴴᴰᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085210&extension=ts
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085209&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 13 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 13 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085209&extension=ts
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 14 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 14 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085208&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:25:07:2C&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:64:39&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F0:87:92&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:22:09:69&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:33:0B:C6&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:76:3E&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:3F:83&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F8:AB:FC&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:19:96:91&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:00:2D&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:F9:94:21&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1E:4D:8D&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085208&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY", REPLAY 15 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085208&extension=ts
 
 
