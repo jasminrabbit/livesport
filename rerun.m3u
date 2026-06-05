@@ -927,6 +927,35 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085208&exten
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="📺WORLD CUP 2026 REPLAY📺", REPLAY 15 ᴴᴰ
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085208&extension=ts
 
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 101
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:C6:3D:A0&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 102
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:21:52:98&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 103
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F0:F1:35&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 104
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:5E:3B&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 105
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F0:9A:7C&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 106
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F0:24:81&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 107
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:20:25:DB&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 108
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:C0:0B:32&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 109
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:3F:10:BD&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 110
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:48:64:39&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 111
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:1C:91:D7&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 112
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:4C:05:BC&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 113
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:48:76:3E&stream=744756&extension=ts
+#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 114
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:1E:20:C0&stream=744756&extension=ts
+
 
 
 #EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" ,Arena Sport 101
@@ -986,116 +1015,5 @@ http://91.208.115.26:80/play/live.php?mac=00:1B:79:3F:31:96&stream=559143&extens
 #EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" ,Arena Sport 128
 http://91.208.115.26:80/play/live.php?mac=00:1B:79:45:11:85&stream=559143&extension=ts
 
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 201
-http://91.208.115.26:80/play/live.php?mac=00:1A:79:83:2A:95&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 202
-http://91.208.115.26:80/play/live.php?mac=00:1A:79:BB:F6:57&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 203
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:58:F4&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 204
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:1D:63&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺"tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 205 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:2D:F1&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 206 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:38:15:F5&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 207 
-http://91.208.115.26:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 208
-http://91.208.115.26:80/play/live.php?mac=00:1A:79:BB:F6:57&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 209 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:45:40:42&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 210 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:48:71:31&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 211
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:48:7F:90&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 212 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:2C:5D&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 213 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:25:18:78&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 214 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:19:79:D2&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 215 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:36:2C:9B&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 216 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:1D:49:29&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 217
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:23:C9&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 218
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:45:37:66&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 219
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:48:78:68&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 220
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:47:22:16&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 220
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:34:7F:50&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 222
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:34:08:2F&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 223
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:F9:E2:6F&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 224
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:52:09:A5&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 225
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:24:7E&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 226
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:48:29:3F&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 227
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:3F:31:96&stream=559144&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" ,Arena Sport 228
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:45:11:85&stream=559144&extension=ts
 
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 301
-http://91.208.115.26:80/play/live.php?mac=00:1A:79:83:2A:95&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 302
-http://91.208.115.26:80/play/live.php?mac=00:1A:79:BB:F6:57&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 303
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:58:F4&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 304
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:1D:63&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺"tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 305 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:2D:F1&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 306 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:38:15:F5&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 307 
-http://91.208.115.26:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 308
-http://91.208.115.26:80/play/live.php?mac=00:1A:79:BB:F6:57&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 309 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:45:40:42&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 310 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:48:71:31&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 311
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:48:7F:90&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 312 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:2C:5D&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 313 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:25:18:78&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 314 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:19:79:D2&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 315 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:36:2C:9B&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 316 
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:1D:49:29&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 317
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:23:C9&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 318
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:45:37:66&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 319
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:48:78:68&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 320
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:47:22:16&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 320
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:34:7F:50&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 322
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:34:08:2F&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 323
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:F9:E2:6F&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 324
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:52:09:A5&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 325
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:4A:24:7E&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 326
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:48:29:3F&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 327
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:3F:31:96&stream=559145&extension=ts
-#EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" ,Arena Sport 328
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:45:11:85&stream=559145&extension=ts
+
