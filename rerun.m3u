@@ -405,7 +405,6 @@ http://91.208.115.26:80/play/live.php?mac=00:1B:79:48:71:31&stream=858555&extens
 #EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 214
 http://91.208.115.26:80/play/live.php?mac=00:1B:79:41:11:8F&stream=858555&extension=ts
 
-https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  101
 http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=2077066&extension=ts
