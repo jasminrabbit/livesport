@@ -1,44 +1,124 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺"  tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn1.png",ca-tsn1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
-#EXTVLCOPT:http-referer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8
-#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn2.png",ca-tsn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
-#EXTVLCOPT:http-referer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/ca-tsn2_720/chunks.m3u8
-#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn3.png",ca-tsn3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
-#EXTVLCOPT:http-referer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/ca-tsn3_720/chunks.m3u8
-#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn4.png",ca-tsn4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
-#EXTVLCOPT:http-referer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/ca-tsn4_720/chunks.m3u8
-#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn5.png",ca-tsn5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
-#EXTVLCOPT:http-referer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/ca-tsn5_720/chunks.m3u8
-#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/us-foxsports1.png",us-foxsports1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
-#EXTVLCOPT:http-referer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/us-foxsports1_720/chunks.m3u8
-#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/us-foxsports2.png",us-foxsports2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
-#EXTVLCOPT:http-referer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/us-foxsports2_720/chunks.m3u8
-#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/pt-sporttv1.png",pt-sporttv1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
-#EXTVLCOPT:http-referer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/pt-sporttv1_720/chunks.m3u8
-#EXTINF:-1 group-title="📺บอลโลก สำรอง 1📺" tvg-logo="https://api.bananamuffin.org/images/png/pt-sporttv2.png",pt-sporttv2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Safari/537.36
-#EXTVLCOPT:http-referer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/pt-sporttv2_720/chunks.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 101
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 102
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 103
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 104
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 105
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:73:CF:75&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 106
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 107
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 108
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:B5:9A:50&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 109
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 110
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 111
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 112
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 113
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=30581&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 1📺", BBC 114
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=30581&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 201
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 202
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 203
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 204
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 205
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:73:CF:75&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 206
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 207
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 208
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:B5:9A:50&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 209
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 210
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 211
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 212
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 213
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=30580&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 1📺", BBC 214
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=30580&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 101
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 102
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 103
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 104
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 105
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:73:CF:75&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 106
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 107
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 108
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:B5:9A:50&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 109
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 110
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 111
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 112
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 113
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=111553&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 1📺", ITV 114
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=111553&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 201
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 202
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 203
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 204
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 205
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:73:CF:75&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 206
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 207
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 208
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:B5:9A:50&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 209
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 210
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 211
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 212
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 213
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=30530&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 1📺", ITV 214
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=30530&extension=ts
 
 
 
@@ -57,7 +137,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1A:79:C7:6F:AF&stream=904216&extens
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 106
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:14:8D&stream=904216&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 107
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:BC:B5:EB&stream=904216&extension=ts
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:7C:4C:56&stream=904216&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 108
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:70&stream=904216&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="📺บอลโลก สำรอง 2📺",TSN 109
@@ -100,7 +180,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1A:79:C7:6F:AF&stream=904215&extens
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 206
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:14:8D&stream=904215&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 207
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:BC:B5:EB&stream=904215&extension=ts
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:7C:4C:56&stream=904215&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 208
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:70&stream=904215&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="📺บอลโลก สำรอง 2📺",TSN 209
@@ -143,7 +223,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1A:79:C7:6F:AF&stream=904214&extens
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 306
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:14:8D&stream=904214&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 307
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:BC:B5:EB&stream=904214&extension=ts
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:7C:4C:56&stream=904214&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 308
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:70&stream=904214&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="📺บอลโลก สำรอง 2📺",TSN 309
@@ -186,7 +266,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1A:79:C7:6F:AF&stream=904213&extens
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 406
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:14:8D&stream=904213&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 407
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:BC:B5:EB&stream=904213&extension=ts
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:7C:4C:56&stream=904213&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 408
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:70&stream=904213&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="📺บอลโลก สำรอง 2📺",TSN 409
@@ -229,7 +309,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1A:79:C7:6F:AF&stream=904212&extens
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 506
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:B6:14:8D&stream=904212&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 507
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:BC:B5:EB&stream=904212&extension=ts
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:7C:4C:56&stream=904212&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 508
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:84:0F:70&stream=904212&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="📺บอลโลก สำรอง 2📺",TSN 509
@@ -325,126 +405,67 @@ http://91.208.115.26:80/play/live.php?mac=00:1B:79:48:71:31&stream=858555&extens
 #EXTINF:-1 tvg-logo="https://api.eatmorebanana.org/images/png/us-foxsports2.png" group-title="📺บอลโลก สำรอง 3📺",Fox Sport 214
 http://91.208.115.26:80/play/live.php?mac=00:1B:79:41:11:8F&stream=858555&extension=ts
 
+https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  101
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  102
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  103
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  104
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  105
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:73:CF:75&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  106
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  107
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  108
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:B5:9A:50&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  109
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  110
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  111
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  112
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  113
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sbs.png" group-title="📺บอลโลก สำรอง 4📺", SBS  114
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=2077066&extension=ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  101
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  102
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  103
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  104
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  105
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:73:CF:75&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  106
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  107
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  108
+http://185.80.197.40:80/play/live.php?mac=00:1A:79:B5:9A:50&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  109
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  110
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  111
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  112
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  113
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/RTE2.png" group-title="📺บอลโลก สำรอง 4📺", RTE TWO  114
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=2077026&extension=ts
 
 
-
-
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 101
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 102
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 103
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 104
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 105
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:FF:15:94&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 106
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 107
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 108
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:41:04:AC&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 109
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 110
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 111
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 112
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 113
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=30581&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="📺บอลโลก สำรอง 4📺", BBC 114
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=30581&extension=ts
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 201
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 202
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 203
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 204
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 205
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:FF:15:94&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 206
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 207
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 208
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:41:04:AC&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 209
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 210
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 211
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 212
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 213
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=30580&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="📺บอลโลก สำรอง 4📺", BBC 214
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=30580&extension=ts
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 101
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 102
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 103
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 104
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 105
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:FF:15:94&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 106
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 107
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 108
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:41:04:AC&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 109
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 110
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 111
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 112
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 113
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=111553&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="📺บอลโลก สำรอง 4📺", ITV 114
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=111553&extension=ts
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 201
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:35:12&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 202
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:95:1E:7E&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 203
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:33:49:E5&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 204
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:5E:52&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 205
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:FF:15:94&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 206
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F9:DE:C4&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 207
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:49:25:B2&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 208
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:41:04:AC&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 209
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:4B:3C:08&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 210
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:89:7E&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 211
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:42:16:5C&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 212
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:F8:3C:3F&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 213
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:34:85:48&stream=30530&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="📺บอลโลก สำรอง 4📺", ITV 214
-http://185.80.197.40:80/play/live.php?mac=00:1B:79:45:22:B9&stream=30530&extension=ts
 
 
 
