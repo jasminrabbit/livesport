@@ -947,7 +947,7 @@ http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:72:60&stream=2085208&exten
 http://185.80.197.39:80/play/live.php?mac=00:1B:79:1C:A4:83&stream=2085208&extension=ts
 
 #EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 101
-http://185.80.197.40:80/play/live.php?mac=00:1A:79:C6:3D:A0&stream=744756&extension=ts
+http://185.80.197.40:80/play/live.php?mac=00:1B:79:25:07:2C&stream=744756&extension=ts
 #EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 102
 http://185.80.197.40:80/play/live.php?mac=00:1B:79:21:52:98&stream=744756&extension=ts
 #EXTINF:-1  group-title="📺VNL📺" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo_v2.png" ,Sport Klub 103
